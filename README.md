@@ -1,2 +1,2 @@
-# 100daysofcodechallenge
-100 Days of  Coding Challenge
+# 45daysofcodechallenge
+45 Days of  Coding Challenge
